@@ -9,3 +9,5 @@ Click on the buttons you want to add, it'll redirect you to the app.
 
 * [Smart Skip](https://intradeus.github.io/http-protocol-redirector?r=mangayomi://add-button?button=eyJ0aXRsZSI6IlNtYXJ0IFNraXAiLCJjb2RlUHJlc3MiOiJtcC5jb21tYW5kKFwic2NyaXB0LW1lc3NhZ2Ugc2tpcC10by1zaWxlbmNlXCIpIiwiY29kZUxvbmdQcmVzcyI6IiIsImNvZGVTdGFydHVwIjoiIn0=) - Auto-detect and skip intro, outro and more!
 
+* [Auto hide soft subs](https://intradeus.github.io/http-protocol-redirector?r=mangayomi://add-button?button=eyJ0aXRsZSI6IkF1dG8gaGlkZSBzb2Z0IHN1YnMiLCJjb2RlUHJlc3MiOiItLSBpZ25vcmUgdGhpcyIsImNvZGVMb25nUHJlc3MiOiIiLCJjb2RlU3RhcnR1cCI6Im1wLnNldF9wcm9wZXJ0eSgnc3ViLXZpc2liaWxpdHknLCAnbm8nKSJ9) - Automatically hide soft subs!
+
